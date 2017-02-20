@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Learning Git.
+                    Learning Git!
                 </div>
 
                 <div class="links">
