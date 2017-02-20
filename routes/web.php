@@ -21,3 +21,6 @@ Route::get('about', function ()
 {
 	return "about page";
 });
+
+
+// add reporting feauture
