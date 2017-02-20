@@ -17,4 +17,7 @@ Route::get('/', function () {
     	]);
 });
 
-//add auth   
+Route::get('abot', function ()
+{
+	return "about page";
+});
