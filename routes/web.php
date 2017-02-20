@@ -16,3 +16,5 @@ Route::get('/', function () {
     	'name' => 'martin'
     	]);
 });
+
+//add auth 
