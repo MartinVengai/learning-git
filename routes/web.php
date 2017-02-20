@@ -21,3 +21,6 @@ Route::get('abot', function ()
 {
 	return "about page";
 });
+
+
+// add reporting feauture
